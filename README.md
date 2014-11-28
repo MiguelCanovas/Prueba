@@ -8,9 +8,9 @@ Esto es una **prueba** para el *cliente* de Github
 * bla
 * blaBla
 
-1.bla
-2.blablabla
-3.blabla
+1. bla
+2. blablabla
+3. blabla
 
 ```cs
 public class bla
