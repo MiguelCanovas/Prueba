@@ -15,5 +15,6 @@ Esto es una **prueba** para el *cliente* de Github
 ```cs
 public class bla
     {
+    private float num;
     }
 ```
